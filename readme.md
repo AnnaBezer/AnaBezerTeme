@@ -6,7 +6,7 @@ cum sa incarci teme de acasa
 te duci in folderul teme cu 
 1. `cd teme` (optional daca nu esti deja in teme) (ex: aici esti deja: PS C:\Users\annab\Desktop\HRMLDEMO\teme>)
 2. creezi un branch nou : `git checkout -b "3.1"`
-3. optional sa vei in care branch esti `"git status"`
+3. optional sa vrei in care branch esti `"git status"`
 4. marchezi spre adaugat in git pe branch tot codul: `"git add ."`
 5. adaugi efectiv cu commit (mesajul): `git commit -m "Tema 3.1"`
 6. impingi codul spre git: `git push origin 3.1`
